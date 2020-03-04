@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "615797127010",
+    "firebase_url": "https://login-flutter-9120a.firebaseio.com",
+    "project_id": "login-flutter-9120a",
+    "storage_bucket": "login-flutter-9120a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615797127010:android:c87716a24e1c6347b2de3b",
+        "android_client_info": {
+          "package_name": "com.vegastep.logindemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "615797127010-e154ef8gj2mra7fvjo1ceq3j2gb3vlbs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpcd1-SsegC0v5uRCvOnrWcBKySKdDRkg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "615797127010-e154ef8gj2mra7fvjo1ceq3j2gb3vlbs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
